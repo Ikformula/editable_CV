@@ -603,13 +603,13 @@ pre code {
 
 @media (min-width: 992px) {
   .container, .container-sm, .container-md, .container-lg {
-    max-width: 860px;
+    max-width: 960px;
   }
 }
 
 @media (min-width: 1200px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl {
-    max-width: 1040px;
+    max-width: 1140px;
   }
 }
 
